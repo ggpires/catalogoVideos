@@ -22,6 +22,8 @@ section{
     overflow-x: auto;
     gap:10px;
     background: #2e2e2e;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .vid-img{
     height: 200px;
