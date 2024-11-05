@@ -23,3 +23,7 @@ section{
     gap:10px;
     background: #9b9b9b;
 }
+.vid-img{
+    height: 20%;
+    width: auto;
+}
