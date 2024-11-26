@@ -28,4 +28,9 @@ section{
 }
 .vid-img{
     height: 200px;
+    opacity: 0.7;
+}
+.vid-img:hover{
+    opacity:1.0;
+    border:#ff9100;
 }
